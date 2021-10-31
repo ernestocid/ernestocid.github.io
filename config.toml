@@ -1,11 +1,11 @@
-baseURL = "http://www.ernestocid.com/"
+baseURL = "https://ernestocid.github.io"
 languageCode = "en-us"
 title = "Ernesto Matos"
 theme = "alageek"
 
 [params]
 copyright = "© 2021 by Ernesto Matos"
-copyrightUrl = "https://www.ernestocid.com"
+copyrightUrl = "https://ernestocid.github.io"
 description = "Ernesto Cid personal website"
 faviconfile = "images/laptop_emoji.png"
 logofile = "images/laptop_emoji.png"
