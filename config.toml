@@ -1,0 +1,41 @@
+baseURL = "http://www.ernestocid.com/"
+languageCode = "en-us"
+title = "Ernesto Matos"
+theme = "alageek"
+
+[params]
+copyright = "© 2021 by Ernesto Matos"
+copyrightUrl = "https://www.ernestocid.com"
+description = "Ernesto Cid personal website"
+faviconfile = "images/laptop_emoji.png"
+logofile = "images/laptop_emoji.png"
+highlightjs = true
+highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
+toc = true
+progressively = true
+github = "ernestocid"
+linkedin = "ernestocid"
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 20
+
+[[menu.primary]]
+identifier = "reading"
+name = "Reading"
+url = "/reading/"
+weight = 30
+
+[[menu.primary]]
+identifier = "now"
+name = "Now"
+url = "/now/"
+weight = 40
