@@ -1,36 +1,20 @@
 :root {
-    --main-bg-color: #fff;
-    --main-font-color: #313537;
-    --main-link-color: #0011ff;
-    --header-font-color: #333333;
-    --header-link-color: #666666;
-    --footer-link-color: #313537;
-    --pagination-border-color: #dee2e6;
+    --main-bg-color: #1a1a1a;
+    --main-font-color: #f8f9fa;
+    --main-link-color: #ffc107;
+    --header-font-color: #efefef;
+    --header-link-color: #eaeaea;
+    --footer-link-color: #aaa;
+    --pagination-border-color: #222222;
 
-    --color-patreon: #dc3545;
-    --color-ko-fi: #dc3545;
-    --color-bmc: #dc3545;
+    --color-patreon: #f96854;
+    --color-ko-fi: #df5000;
+    --color-bmc: #ff813f;
 }
 
 .badge-info {
     background-color: #20c997;
     color: #000;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --main-bg-color: #1a1a1a;
-        --main-font-color: #f8f9fa;
-        --main-link-color: #ffc107;
-        --header-font-color: #efefef;
-        --header-link-color: #eaeaea;
-        --footer-link-color: #aaa;
-        --pagination-border-color: #222222;
-
-        --color-patreon: #f96854;
-        --color-ko-fi: #df5000;
-        --color-bmc: #ff813f;
-    }
 }
 
 /* Global styles */
@@ -298,6 +282,10 @@ h6 {
 
 .content .navigation .text {
     vertical-align: middle;
+}
+
+.content h1 {
+    margin-bottom: 2rem;
 }
 
 /* Partial: Footer */
