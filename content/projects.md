@@ -1,8 +1,10 @@
-+++
-title = "Projects"
-date = "2021-11-16"
-menu = "main"
-+++
+---
+title: "Projects"
+date: 2021-11-13T14:45:02-03:00
+menu: "main"
+---
+
+Bellow you will find some of the projects I created.
 
 - BETA: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation,
 to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional
