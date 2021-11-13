@@ -32,10 +32,16 @@ weight = 20
 identifier = "reading"
 name = "Reading"
 url = "/reading/"
-weight = 30
+weight = 40
 
 [[menu.primary]]
 identifier = "now"
 name = "Now"
 url = "/now/"
-weight = 40
+weight = 50
+
+[[menu.primary]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 30

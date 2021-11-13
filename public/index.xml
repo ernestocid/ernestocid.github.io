@@ -2,40 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ernesto Matos</title>
-    <link>http://example.org/</link>
+    <link>https://ernestocid.github.io/</link>
     <description>Recent content in Home on Ernesto Matos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://ernestocid.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/blog/my-first-post/</link>
+      <link>https://ernestocid.github.io/blog/my-first-post/</link>
       <pubDate>Sat, 04 Jul 2020 17:31:02 -0300</pubDate>
       
-      <guid>http://example.org/blog/my-first-post/</guid>
-      <description>This is my first post Hello world!</description>
+      <guid>https://ernestocid.github.io/blog/my-first-post/</guid>
+      <description>Hello world!</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications/</link>
+      <link>https://ernestocid.github.io/publications/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publications/</guid>
+      <guid>https://ernestocid.github.io/publications/</guid>
       <description>Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my Lattes page.
  Matos, E. C. B.; Moreira, A. M.; Souza Neto, J. B.. An empirical study of test generation with BETA. In: Journal of the Brazilian Computer Society, Volume 22. 2016. Matos, E. C. B.; Medeiros Jr., V.; Déharbe, D.; Azevedo, D.. BTestBox: an automatic test generator for B Method.</description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>http://example.org/reading/</link>
+      <link>https://ernestocid.github.io/reading/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/reading/</guid>
+      <guid>https://ernestocid.github.io/reading/</guid>
       <description>Here is a list of books that I&amp;rsquo;ve read and that I usually recommend to people:
 Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp.
 The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas.
@@ -46,10 +42,10 @@ Deep Work: Rules for Focused Success in a Distracted World by Cal Newport.
     
     <item>
       <title>Now</title>
-      <link>http://example.org/now/</link>
+      <link>https://ernestocid.github.io/now/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/now/</guid>
+      <guid>https://ernestocid.github.io/now/</guid>
       <description>This is what I&amp;rsquo;m doing now.
 I&amp;rsquo;m living in São Paulo and working at Loggi.</description>
     </item>
