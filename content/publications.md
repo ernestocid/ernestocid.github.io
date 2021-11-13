@@ -1,8 +1,14 @@
 +++
-title = "Publications"
+title = "Publications and Presentations"
 date = "2020-07-04"
 menu = "main"
 +++
+
+## Presentations
+
+- [Simplifying Asynchronous Service Communication with Kafka, Debezium and the Outbox Pattern](https://www.confluent.io/events/kafka-summit-americas-2021/simplifying-asynchronous-service-communication-with-kafka-debezium-and-the/) at [Kafka Summit Americas, 2021](https://www.kafka-summit.org/kafka-summit-americas-2021).
+
+## Publications
 
 Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my [Lattes](http://lattes.cnpq.br/4276245931614707) page.
 
