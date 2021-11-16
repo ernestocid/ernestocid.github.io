@@ -1,6 +1,6 @@
 baseURL = "https://ernestocid.github.io/"
 languageCode = "en-us"
-title = "Ernesto Matos"
+title = "Hi, I'm Ernesto"
 theme = "alageek"
 
 [params]
@@ -8,13 +8,19 @@ copyright = "© 2021 by Ernesto Matos"
 copyrightUrl = "https://ernestocid.github.io/"
 description = "Ernesto Cid personal website"
 faviconfile = "images/laptop_emoji.png"
-logofile = "images/laptop_emoji.png"
+logofile = ""
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
 toc = true
 progressively = true
 github = "ernestocid"
 linkedin = "ernestocid"
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/"
+weight = 10
 
 [[menu.primary]]
 identifier = "blog"
@@ -24,7 +30,7 @@ weight = 10
 
 [[menu.primary]]
 identifier = "publications"
-name = "Publications/Presentations"
+name = "Publications"
 url = "/publications/"
 weight = 20
 
