@@ -108,7 +108,7 @@ h6 {
 .header h1.name {
     color: var(--header-font-color);
     font-size: 2.3rem;
-    letter-spacing: 0.1rem;
+    font-weight: 600;
 }
 
 .header ul.nav li a {
@@ -167,7 +167,6 @@ h6 {
 .content .markdown {
     position: relative;
     font-size: 1.1em;
-    line-height: 1.75em;
 }
 
 .content twitterwidget {
