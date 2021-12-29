@@ -6,6 +6,8 @@ menu = "main"
 
 Here is a list of books that I've read and that I usually recommend to people:
 
+- [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/ref=sr_1_1?crid=341VC994SN021&keywords=philosophy+of+software+design&qid=1640798248&sprefix=Philosophy+of+software%2Caps%2C229&sr=8-1) by John Ousterhout.
+
 - [Debugging Teams: Better Productivity Through Collaboration](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058/ref=sr_1_1?keywords=debugging+teams&qid=1636828945&sr=8-1) by Brian W. Fitzpatrick and Ben Collins-Sussman.
 
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/ref=sr_1_1?keywords=radical+candor&qid=1636829152&s=books&sr=1-1) by Kim Scott.
