@@ -6,6 +6,8 @@ menu = "main"
 
 Here is a list of books that I've read and that I usually recommend to people:
 
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?crid=3I166X7NJV0ZQ&keywords=the+phoenix+project&qid=1656001470&sprefix=the+phoenix+projec%2Caps%2C200&sr=8-1) by Gene Kim, George Spafford and Kevin Behr.
+
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/ref=sr_1_1?crid=341VC994SN021&keywords=philosophy+of+software+design&qid=1640798248&sprefix=Philosophy+of+software%2Caps%2C229&sr=8-1) by John Ousterhout.
 
 - [Debugging Teams: Better Productivity Through Collaboration](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058/ref=sr_1_1?keywords=debugging+teams&qid=1636828945&sr=8-1) by Brian W. Fitzpatrick and Ben Collins-Sussman.
