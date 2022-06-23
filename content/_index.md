@@ -12,7 +12,7 @@ my time at [DIMAp/UFRN](http://www.dimap.ufrn.br/) (and [HHU](https://www.uni-du
 for almost a year). During my time in
 academia I did research on software testing and formal methods.
 
-I'm currently working as ~~Software Engineer~~ Engineering Manager at [Loggi](https://www.loggi.com/)
+I'm currently working as an ~~Software Engineer~~ Engineering Manager at [Loggi](https://www.loggi.com/)
 trying to reinvent logistics through technology.
 
 ## Long Bio
