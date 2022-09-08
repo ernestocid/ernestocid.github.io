@@ -9,7 +9,7 @@ menu = "main"
 My name is Ernesto Matos. I'm a Computer Scientist/Software Engineer living in
 São Paulo, Brazil. I got a MSc and a Ph.D in computer science during
 my time at [DIMAp/UFRN](http://www.dimap.ufrn.br/) (and [HHU](https://www.uni-duesseldorf.de/home/en/home.html)
-for almost a year). During my time in
+in Düsseldorf for a year). During my time in
 academia I did research on software testing and formal methods.
 
 I'm currently working as an ~~Software Engineer~~ Engineering Manager at [Loggi](https://www.loggi.com/)
