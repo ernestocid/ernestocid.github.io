@@ -6,6 +6,9 @@ menu = "main"
 
 Here is a list of books that I've read and that I usually recommend to people:
 
+
+- [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=sr_1_1?keywords=staff+software+engineer&qid=1669947556&sprefix=Staff+sof%2Caps%2C240&sr=8-1) by Will Larson.
+
 - [Domain-Driven Design Distilled](https://www.amazon.com.br/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=sr_1_5?crid=30F9X50YV8RYF&keywords=domain+driven+design+distilled&qid=1668893900&qu=eyJxc2MiOiIxLjQ1IiwicXNhIjoiMS4xMCIsInFzcCI6IjAuNjUifQ%3D%3D&sprefix=domain+driven+design+dis%2Caps%2C210&sr=8-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) by Vernon Vaughn.
 
 - [14 Habits of Highly Productive Developers](https://www.amazon.com/14-Habits-Highly-Productive-Developers-ebook/dp/B08BF74RRG/ref=sr_1_1?crid=FUYSP61N72Z9&keywords=14+habits+of+highly+productive+developers&qid=1662664072&sprefix=14+habits+%2Caps%2C240&sr=8-1) by Zeno Rocha.
