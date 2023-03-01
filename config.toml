@@ -4,7 +4,7 @@ title = "Hi, I'm Ernesto"
 theme = "alageek"
 
 [params]
-copyright = "© 2022 by Ernesto Matos"
+copyright = "© 2023 by Ernesto Matos"
 copyrightUrl = "https://ernestocid.github.io/"
 description = "Ernesto Cid personal website"
 faviconfile = "images/laptop_emoji.png"
