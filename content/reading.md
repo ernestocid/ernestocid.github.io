@@ -6,6 +6,7 @@ menu = "main"
 
 Here is a list of books that I've read and that I usually recommend to people:
 
+- [Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://a.co/d/7IoMVfc) by Nicole Forsgren PhD, Jez Humble, Gene Kim.
 
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=sr_1_1?keywords=staff+software+engineer&qid=1669947556&sprefix=Staff+sof%2Caps%2C240&sr=8-1) by Will Larson.
 
