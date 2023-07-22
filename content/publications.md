@@ -8,6 +8,14 @@ menu = "main"
 
 - [Simplifying Asynchronous Service Communication with Kafka, Debezium and the Outbox Pattern](https://www.confluent.io/events/kafka-summit-americas-2021/simplifying-asynchronous-service-communication-with-kafka-debezium-and-the/) at [Kafka Summit Americas, 2021](https://www.kafka-summit.org/kafka-summit-americas-2021).
 
+## Thesis and dissertations
+
+- [BETA: a B Based Testing Approach](/assets/thesis_ernesto_final.pdf) (Doctoral Thesis)
+
+- [BETA: Uma ferramenta para geração de testes de unidade a partir de especificações B](/assets/dissertacao_ernesto_final.pdf) (Masters Dissertation in portuguese)
+
+- [Uma ferramenta para geração automática de testes funcionais e protótipos de interface, a partir de casos de uso](/assets/tcc_revisado_final.pdf) (Bachelors Dissertation in portuguese)
+
 ## Publications
 
 Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my [Lattes](http://lattes.cnpq.br/4276245931614707) page.
