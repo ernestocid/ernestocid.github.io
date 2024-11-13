@@ -1,9 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-us"
   dir="ltr">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
 
@@ -50,13 +50,19 @@
 
 
 
-</head>
+  </head>
 
-   
+  
 
-<body class="auto">
-  <div class="content">
-    <header>
+  
+  
+  
+
+  <body class="auto">
+
+    <div class="content">
+      <header>
+        
 
 <div class="header">
 
@@ -126,9 +132,11 @@
     
 
 </div>
-</header>
 
-    <main class="main">
+      </header>
+
+      <main class="main">
+        
 
 <div class="list-container">
 
@@ -181,10 +189,12 @@ there are useful to you.</p>
     
 
 </div>
-</main>
-  </div>
 
-  <footer>
+      </main>
+    </div>
+
+    <footer>
+      
 
     
     <p>Powered by
@@ -197,25 +207,25 @@ there are useful to you.</p>
     
 
 
-</footer>
-</body>
 
-<script>
+    </footer>
+    
+  </body>
+
+  <script>
+
   function isAuto() {
     return document.body.classList.contains("auto");
   }
 
   function setTheme() {
     if (!isAuto()) {
-      return;
+      return
     }
 
     document.body.classList.remove("auto");
     let cls = "light";
-    if (
-      window.matchMedia &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches
-    ) {
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       cls = "dark";
     }
 
@@ -228,10 +238,11 @@ there are useful to you.</p>
   }
 
   if (isAuto()) {
-    window.matchMedia("(prefers-color-scheme: dark)").addListener(invertBody);
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
   }
 
   setTheme();
+
 </script>
 
 </html>
