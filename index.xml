@@ -1,12 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Hi, I'm Ernesto</title><link>https://ernestocid.github.io/</link><description>Recent content in Home on Hi, I'm Ernesto</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://ernestocid.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Designing Loggi’s event-driven architecture</title><link>https://ernestocid.github.io/blog/loggi-event-driven-architecture/</link><pubDate>Tue, 07 Mar 2023 17:31:02 -0300</pubDate><guid>https://ernestocid.github.io/blog/loggi-event-driven-architecture/</guid><description>I wrote a Medium post about one of the coolest projects I had the opportunity to work on at Loggi. In this post I present how we designed an event-driven architecture using Kafka, the Outbox Pattern and a microservice with some tiny tricks. I hope some of the insights in there are useful to you.
-Click here to continue reading&amp;hellip;.</description></item><item><title>Projects</title><link>https://ernestocid.github.io/projects/</link><pubDate>Sat, 13 Nov 2021 14:45:02 -0300</pubDate><guid>https://ernestocid.github.io/projects/</guid><description>Bellow you will find some of the projects I created.
-BETA: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation, to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional statements, to create unit tests for an operation. You can read more about BETA on my Ph.D thesis, in some of the papers here and in the tool&amp;rsquo;s website.</description></item><item><title>Publications and Presentations</title><link>https://ernestocid.github.io/publications/</link><pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/publications/</guid><description>Presentations Simplifying Asynchronous Service Communication with Kafka, Debezium and the Outbox Pattern at Kafka Summit Americas, 2021. Thesis and dissertations BETA: a B Based Testing Approach (Doctoral Thesis)
-BETA: Uma ferramenta para geração de testes de unidade a partir de especificações B (Masters Dissertation in portuguese)
-Uma ferramenta para geração automática de testes funcionais e protótipos de interface, a partir de casos de uso (Bachelors Dissertation in portuguese)
-Publications Bellow you will find a list of my published papers and other academic work.</description></item><item><title>Reading</title><link>https://ernestocid.github.io/reading/</link><pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/reading/</guid><description>Here is a list of books that I&amp;rsquo;ve read and that I usually recommend to people:
-Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations by Nicole Forsgren PhD, Jez Humble, Gene Kim.
-Staff Engineer: Leadership beyond the management track by Will Larson.
-Domain-Driven Design Distilled by Vernon Vaughn.
-14 Habits of Highly Productive Developers by Zeno Rocha.
-The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, George Spafford and Kevin Behr.</description></item><item><title>Now</title><link>https://ernestocid.github.io/now/</link><pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/now/</guid><description>This is what I&amp;rsquo;m doing now.
-I&amp;rsquo;m living in São Paulo and working at Loggi.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Hi, I'm Ernesto</title><link>https://ernestocid.github.io/</link><description>Recent content in Home on Hi, I'm Ernesto</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 17:31:02 -0300</lastBuildDate><atom:link href="https://ernestocid.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Designing Loggi’s event-driven architecture</title><link>https://ernestocid.github.io/blog/loggi-event-driven-architecture/</link><pubDate>Tue, 07 Mar 2023 17:31:02 -0300</pubDate><guid>https://ernestocid.github.io/blog/loggi-event-driven-architecture/</guid><description>&lt;p>I wrote a Medium post about one of the coolest projects I had the opportunity to work
+on at Loggi. In this post I present how we designed an event-driven architecture using Kafka,
+the Outbox Pattern and a microservice with some tiny tricks. I hope some of the insights in
+there are useful to you.&lt;/p>
+&lt;p>&lt;a href="https://medium.com/loggi-product/designing-loggis-event-driven-architecture-fca8333263dd">Click here to continue reading&amp;hellip;&lt;/a>.&lt;/p></description></item><item><title>About</title><link>https://ernestocid.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/about/</guid><description>&lt;p>I got my first computer in 1996 when i was nine years old. it was an intel pentium iii with 128mb
+of ram and fewer megabytes of storage than today&amp;rsquo;s free google drive plan. it had a cool
+turbo button, though :-).&lt;/p>
+&lt;p>since then, i&amp;rsquo;ve spent more time in front of a computer than my parents should allow. in the
+beginning, it was just for games and learning cool tricks on ms-dos. it wasn&amp;rsquo;t until late in school
+that i got a taste of programming. some friends and i found out about free web hosting and started
+to code dragon ball z fan sites. the sites had visitor counters, and we competed to see who would
+get more visitors. i don&amp;rsquo;t think the concept of seo was popular back then, so we did our own
+marketing by setting the default website in the browsers of the school computers as our websites.
+the teachers weren&amp;rsquo;t happy, except for the ones that liked dragon ball z.&lt;/p></description></item><item><title>Now</title><link>https://ernestocid.github.io/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/now/</guid><description>&lt;p>This is what I&amp;rsquo;m doing now.&lt;/p>
+&lt;p>I&amp;rsquo;m living in São Paulo and working at Loggi.&lt;/p></description></item><item><title>Projects</title><link>https://ernestocid.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/projects/</guid><description>&lt;p>Bellow you will find some of the projects I created.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>BETA: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation,
+to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional
+statements, to create unit tests for an operation. You can read more about BETA on
+my Ph.D &lt;a href="http://ernestocid.com/files/thesis.pdf">thesis&lt;/a>, in some of the papers &lt;a href="https://ernestocid.github.io/publications/" title="Publications">here&lt;/a>
+and in the tool&amp;rsquo;s &lt;a href="http://www.beta-tool.info/">website&lt;/a>. You can find the tool&amp;rsquo;s code &lt;a href="https://github.com/ernestocid/beta1">here&lt;/a>.&lt;/p></description></item><item><title>Publications and Presentations</title><link>https://ernestocid.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/publications/</guid><description>&lt;h2 id="presentations">Presentations&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.confluent.io/events/kafka-summit-americas-2021/simplifying-asynchronous-service-communication-with-kafka-debezium-and-the/">Simplifying Asynchronous Service Communication with Kafka, Debezium and the Outbox Pattern&lt;/a> at &lt;a href="https://www.kafka-summit.org/kafka-summit-americas-2021">Kafka Summit Americas, 2021&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="thesis-and-dissertations">Thesis and dissertations&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ernestocid.github.io/assets/thesis_ernesto_final.pdf">BETA: a B Based Testing Approach&lt;/a> (Doctoral Thesis)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ernestocid.github.io/assets/dissertacao_ernesto_final.pdf">BETA: Uma ferramenta para geração de testes de unidade a partir de especificações B&lt;/a> (Masters Dissertation in portuguese)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ernestocid.github.io/assets/tcc_revisado_final.pdf">Uma ferramenta para geração automática de testes funcionais e protótipos de interface, a partir de casos de uso&lt;/a> (Bachelors Dissertation in portuguese)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;p>Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my &lt;a href="http://lattes.cnpq.br/4276245931614707">Lattes&lt;/a> page.&lt;/p></description></item><item><title>Reading</title><link>https://ernestocid.github.io/reading/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ernestocid.github.io/reading/</guid><description>&lt;p>Here is a list of books that I&amp;rsquo;ve read and that I usually recommend to people:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://a.co/d/7IoMVfc">Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations&lt;/a> by Nicole Forsgren PhD, Jez Humble, Gene Kim.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=sr_1_1?keywords=staff+software+engineer&amp;amp;qid=1669947556&amp;amp;sprefix=Staff+sof%2Caps%2C240&amp;amp;sr=8-1">Staff Engineer: Leadership beyond the management track&lt;/a> by Will Larson.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com.br/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=sr_1_5?crid=30F9X50YV8RYF&amp;amp;keywords=domain+driven+design+distilled&amp;amp;qid=1668893900&amp;amp;qu=eyJxc2MiOiIxLjQ1IiwicXNhIjoiMS4xMCIsInFzcCI6IjAuNjUifQ%3D%3D&amp;amp;sprefix=domain+driven+design+dis%2Caps%2C210&amp;amp;sr=8-5&amp;amp;ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678">Domain-Driven Design Distilled&lt;/a> by Vernon Vaughn.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/14-Habits-Highly-Productive-Developers-ebook/dp/B08BF74RRG/ref=sr_1_1?crid=FUYSP61N72Z9&amp;amp;keywords=14+habits+of+highly+productive+developers&amp;amp;qid=1662664072&amp;amp;sprefix=14+habits+%2Caps%2C240&amp;amp;sr=8-1">14 Habits of Highly Productive Developers&lt;/a> by Zeno Rocha.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?crid=3I166X7NJV0ZQ&amp;amp;keywords=the+phoenix+project&amp;amp;qid=1656001470&amp;amp;sprefix=the+phoenix+projec%2Caps%2C200&amp;amp;sr=8-1">The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win&lt;/a> by Gene Kim, George Spafford and Kevin Behr.&lt;/p></description></item></channel></rss>
