@@ -1,53 +1,78 @@
 baseURL = "https://ernestocid.github.io/"
-languageCode = "en-us"
+languageCode = 'en-us'
 title = "Hi, I'm Ernesto"
-theme = "alageek"
+theme = "typo"
+
+[taxonomies]
+tag = 'tags'
 
 [params]
-copyright = "© 2024 by Ernesto Matos"
-copyrightUrl = "https://ernestocid.github.io/"
 description = "Ernesto Cid personal website"
-faviconfile = "images/laptop_emoji.png"
-logofile = ""
-highlightjs = true
-highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
-toc = true
-progressively = true
-github = "ernestocid"
-linkedin = "ernestocid"
+faviconPath = 'images/laptop_emoji.png'
 
-[[menu.primary]]
-identifier = "about"
-name = "About"
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroContent = """
+My name is Ernesto Matos. I'm a Computer Scientist/Software Engineer living in
+São Paulo, Brazil. I got a MSc and a Ph.D in computer science during
+my time at [DIMAp/UFRN](http://www.dimap.ufrn.br/) (and [HHU](https://www.uni-duesseldorf.de/home/en/home.html)
+in Düsseldorf for a year). During my time in
+academia I did research on software testing and formal methods.
+
+I'm currently working as an ~~Software Engineer~~ Engineering Manager at [Loggi](https://www.loggi.com/)
+trying to reinvent logistics through technology.
+"""
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ernestocid/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/ernestocid"
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Main menu pages
+[[params.menu]]
+name = "home"
 url = "/"
-weight = 10
 
-[[menu.primary]]
-identifier = "blog"
-name = "Blog"
+[[params.menu]]
+name = "about"
+url = "/about/"
+
+[[params.menu]]
+name = "blog"
 url = "/blog/"
-weight = 10
 
-[[menu.primary]]
-identifier = "publications"
-name = "Publications"
+[[params.menu]]
+name = "publications"
 url = "/publications/"
-weight = 20
 
-[[menu.primary]]
-identifier = "reading"
-name = "Reading"
+[[params.menu]]
+name = "reading"
 url = "/reading/"
-weight = 40
 
-[[menu.primary]]
-identifier = "now"
-name = "Now"
-url = "/now/"
-weight = 50
-
-[[menu.primary]]
-identifier = "projects"
-name = "Projects"
+[[params.menu]]
+name = "projects"
 url = "/projects/"
-weight = 30
+
+[[params.menu]]
+name = "now"
+url = "/now/"
+
+[markup]
+[markup.highlight]
+style = 'algol'

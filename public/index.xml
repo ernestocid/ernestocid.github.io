@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ernesto Matos</title>
-    <link>https://ernestocid.github.io/</link>
-    <description>Recent content in Home on Ernesto Matos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Home on Hi, I&#39;m Ernesto</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Hi, I&#39;m Ernesto</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://ernestocid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 17:31:02 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://ernestocid.github.io/blog/my-first-post/</link>
-      <pubDate>Sat, 04 Jul 2020 17:31:02 -0300</pubDate>
-      
-      <guid>https://ernestocid.github.io/blog/my-first-post/</guid>
-      <description>Hello world!</description>
+      <title>Designing Loggi’s event-driven architecture</title>
+      <link>http://localhost:1313/blog/loggi-event-driven-architecture/</link>
+      <pubDate>Tue, 07 Mar 2023 17:31:02 -0300</pubDate>
+      <guid>http://localhost:1313/blog/loggi-event-driven-architecture/</guid>
+      <description>&lt;p&gt;I wrote a Medium post about one of the coolest projects I had the opportunity to work&#xA;on at Loggi. In this post I present how we designed an event-driven architecture using Kafka,&#xA;the Outbox Pattern and a microservice with some tiny tricks. I hope some of the insights in&#xA;there are useful to you.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/loggi-product/designing-loggis-event-driven-architecture-fca8333263dd&#34;&gt;Click here to continue reading&amp;hellip;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Publications</title>
-      <link>https://ernestocid.github.io/publications/</link>
-      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernestocid.github.io/publications/</guid>
-      <description>Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my Lattes page.
- Matos, E. C. B.; Moreira, A. M.; Souza Neto, J. B.. An empirical study of test generation with BETA. In: Journal of the Brazilian Computer Society, Volume 22. 2016. Matos, E. C. B.; Medeiros Jr., V.; Déharbe, D.; Azevedo, D.. BTestBox: an automatic test generator for B Method.</description>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I got my first computer in 1996 when i was nine years old. it was an intel pentium iii with 128mb&#xA;of ram and fewer megabytes of storage than today&amp;rsquo;s free google drive plan. it had a cool&#xA;turbo button, though :-).&lt;/p&gt;&#xA;&lt;p&gt;since then, i&amp;rsquo;ve spent more time in front of a computer than my parents should allow. in the&#xA;beginning, it was just for games and learning cool tricks on ms-dos. it wasn&amp;rsquo;t until late in school&#xA;that i got a taste of programming. some friends and i found out about free web hosting and started&#xA;to code dragon ball z fan sites. the sites had visitor counters, and we competed to see who would&#xA;get more visitors. i don&amp;rsquo;t think the concept of seo was popular back then, so we did our own&#xA;marketing by setting the default website in the browsers of the school computers as our websites.&#xA;the teachers weren&amp;rsquo;t happy, except for the ones that liked dragon ball z.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Reading</title>
-      <link>https://ernestocid.github.io/reading/</link>
-      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernestocid.github.io/reading/</guid>
-      <description>Here is a list of books that I&amp;rsquo;ve read and that I usually recommend to people:
-Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp.
-The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas.
-Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce.
-Deep Work: Rules for Focused Success in a Distracted World by Cal Newport.
-99 Bottles of OOP: A Practical Guide to Object-Oriented Design by Sandi Metz and Katrina Owen.</description>
-    </item>
-    
     <item>
       <title>Now</title>
-      <link>https://ernestocid.github.io/now/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernestocid.github.io/now/</guid>
-      <description>This is what I&amp;rsquo;m doing now.
-I&amp;rsquo;m living in São Paulo and working at Loggi.</description>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;p&gt;This is what I&amp;rsquo;m doing now.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m living in São Paulo and working at Loggi.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Bellow you will find some of the projects I created.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;BETA: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation,&#xA;to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional&#xA;statements, to create unit tests for an operation. You can read more about BETA on&#xA;my Ph.D &lt;a href=&#34;http://ernestocid.com/files/thesis.pdf&#34;&gt;thesis&lt;/a&gt;, in some of the papers &lt;a href=&#34;http://localhost:1313/publications/&#34; title=&#34;Publications&#34;&gt;here&lt;/a&gt;&#xA;and in the tool&amp;rsquo;s &lt;a href=&#34;http://www.beta-tool.info/&#34;&gt;website&lt;/a&gt;. You can find the tool&amp;rsquo;s code &lt;a href=&#34;https://github.com/ernestocid/beta1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications and Presentations</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;presentations&#34;&gt;Presentations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.confluent.io/events/kafka-summit-americas-2021/simplifying-asynchronous-service-communication-with-kafka-debezium-and-the/&#34;&gt;Simplifying Asynchronous Service Communication with Kafka, Debezium and the Outbox Pattern&lt;/a&gt; at &lt;a href=&#34;https://www.kafka-summit.org/kafka-summit-americas-2021&#34;&gt;Kafka Summit Americas, 2021&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;thesis-and-dissertations&#34;&gt;Thesis and dissertations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/assets/thesis_ernesto_final.pdf&#34;&gt;BETA: a B Based Testing Approach&lt;/a&gt; (Doctoral Thesis)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/assets/dissertacao_ernesto_final.pdf&#34;&gt;BETA: Uma ferramenta para geração de testes de unidade a partir de especificações B&lt;/a&gt; (Masters Dissertation in portuguese)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/assets/tcc_revisado_final.pdf&#34;&gt;Uma ferramenta para geração automática de testes funcionais e protótipos de interface, a partir de casos de uso&lt;/a&gt; (Bachelors Dissertation in portuguese)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;p&gt;Bellow you will find a list of my published papers and other academic work. If you are interested in more information about my academic profile, visit my &lt;a href=&#34;http://lattes.cnpq.br/4276245931614707&#34;&gt;Lattes&lt;/a&gt; page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reading/</guid>
+      <description>&lt;p&gt;Here is a list of books that I&amp;rsquo;ve read and that I usually recommend to people:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://a.co/d/7IoMVfc&#34;&gt;Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations&lt;/a&gt; by Nicole Forsgren PhD, Jez Humble, Gene Kim.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Staff-Engineer-Leadership-beyond-management/dp/1736417916/ref=sr_1_1?keywords=staff+software+engineer&amp;amp;qid=1669947556&amp;amp;sprefix=Staff+sof%2Caps%2C240&amp;amp;sr=8-1&#34;&gt;Staff Engineer: Leadership beyond the management track&lt;/a&gt; by Will Larson.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com.br/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S/ref=sr_1_5?crid=30F9X50YV8RYF&amp;amp;keywords=domain+driven+design+distilled&amp;amp;qid=1668893900&amp;amp;qu=eyJxc2MiOiIxLjQ1IiwicXNhIjoiMS4xMCIsInFzcCI6IjAuNjUifQ%3D%3D&amp;amp;sprefix=domain+driven+design+dis%2Caps%2C210&amp;amp;sr=8-5&amp;amp;ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&#34;&gt;Domain-Driven Design Distilled&lt;/a&gt; by Vernon Vaughn.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/14-Habits-Highly-Productive-Developers-ebook/dp/B08BF74RRG/ref=sr_1_1?crid=FUYSP61N72Z9&amp;amp;keywords=14+habits+of+highly+productive+developers&amp;amp;qid=1662664072&amp;amp;sprefix=14+habits+%2Caps%2C240&amp;amp;sr=8-1&#34;&gt;14 Habits of Highly Productive Developers&lt;/a&gt; by Zeno Rocha.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?crid=3I166X7NJV0ZQ&amp;amp;keywords=the+phoenix+project&amp;amp;qid=1656001470&amp;amp;sprefix=the+phoenix+projec%2Caps%2C200&amp;amp;sr=8-1&#34;&gt;The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win&lt;/a&gt; by Gene Kim, George Spafford and Kevin Behr.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

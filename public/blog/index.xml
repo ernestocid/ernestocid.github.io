@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Ernesto Matos</title>
-    <link>https://ernestocid.github.io/blog/</link>
-    <description>Recent content in Blogs on Ernesto Matos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Blogs on Hi, I&#39;m Ernesto</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Hi, I&#39;m Ernesto</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2020 17:31:02 -0300</lastBuildDate><atom:link href="https://ernestocid.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 17:31:02 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://ernestocid.github.io/blog/my-first-post/</link>
-      <pubDate>Sat, 04 Jul 2020 17:31:02 -0300</pubDate>
-      
-      <guid>https://ernestocid.github.io/blog/my-first-post/</guid>
-      <description>Hello world!</description>
+      <title>Designing Loggi’s event-driven architecture</title>
+      <link>http://localhost:1313/blog/loggi-event-driven-architecture/</link>
+      <pubDate>Tue, 07 Mar 2023 17:31:02 -0300</pubDate>
+      <guid>http://localhost:1313/blog/loggi-event-driven-architecture/</guid>
+      <description>&lt;p&gt;I wrote a Medium post about one of the coolest projects I had the opportunity to work&#xA;on at Loggi. In this post I present how we designed an event-driven architecture using Kafka,&#xA;the Outbox Pattern and a microservice with some tiny tricks. I hope some of the insights in&#xA;there are useful to you.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/loggi-product/designing-loggis-event-driven-architecture-fca8333263dd&#34;&gt;Click here to continue reading&amp;hellip;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

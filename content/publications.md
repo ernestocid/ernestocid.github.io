@@ -1,7 +1,7 @@
 +++
 title = "Publications and Presentations"
-date = "2020-07-04"
 menu = "main"
+toc = false
 +++
 
 ## Presentations
@@ -39,4 +39,3 @@ Bellow you will find a list of my published papers and other academic work. If y
 - Matos, E. C. B.; DE SOUSA, T. C.. From formal requirements to automated web testing and prototyping. In: Innovations in Systems and Software Engineering, Volume 6, pages 163-169, Springer, 2010.
 
 - Matos, E. C. B.; DE SOUSA, T. C.. Uma Ferramenta para Geração Automatica de Testes Funcionais e Protótipos de Interface a partir de Casos de Uso. In: Escola Regional de Computação dos Estados do Ceará, Maranhão e Piauí, 2009, Parnaiba. ERCEMAPI, 2009.
-

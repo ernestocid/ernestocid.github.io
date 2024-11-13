@@ -17,22 +17,6 @@
     color: #000;
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --main-bg-color: #1a1a1a;
-        --main-font-color: #f8f9fa;
-        --main-link-color: #ffc107;
-        --header-font-color: #efefef;
-        --header-link-color: #eaeaea;
-        --footer-link-color: #aaa;
-        --pagination-border-color: #222222;
-
-        --color-patreon: #f96854;
-        --color-ko-fi: #df5000;
-        --color-bmc: #ff813f;
-    }
-}
-
 /* Global styles */
 body {
     background-color: var(--main-bg-color);
@@ -124,7 +108,7 @@ h6 {
 .header h1.name {
     color: var(--header-font-color);
     font-size: 2.3rem;
-    letter-spacing: 0.1rem;
+    font-weight: 600;
 }
 
 .header ul.nav li a {
@@ -183,7 +167,6 @@ h6 {
 .content .markdown {
     position: relative;
     font-size: 1.1em;
-    line-height: 1.75em;
 }
 
 .content twitterwidget {
@@ -298,6 +281,10 @@ h6 {
 
 .content .navigation .text {
     vertical-align: middle;
+}
+
+.content h1 {
+    margin-bottom: 2rem;
 }
 
 /* Partial: Footer */
