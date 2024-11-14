@@ -2,6 +2,7 @@
 title = "Publications and Presentations"
 menu = "main"
 toc = false
+hidePagination = true
 +++
 
 ## Presentations

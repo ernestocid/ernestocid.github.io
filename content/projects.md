@@ -2,6 +2,7 @@
 title: "Projects"
 menu: "main"
 toc: false
+hidePagination: true
 ---
 
 Bellow you will find some of the projects I created.

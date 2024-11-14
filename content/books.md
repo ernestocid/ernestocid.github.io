@@ -2,6 +2,7 @@
 title = "Books"
 menu = "main"
 toc = false
+hidePagination = true
 +++
 
 Here is a list of books that I've read and that I usually recommend to people:

@@ -2,6 +2,7 @@
 title = "About me"
 menu = "main"
 toc = false
+hidePagination = true
 +++
 
 i got my first computer in 1996 when i was nine years old. it was an intel pentium iii with 128mb

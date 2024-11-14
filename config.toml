@@ -11,9 +11,13 @@ description = "Ernesto Cid personal website"
 faviconPath = 'images/laptop_emoji.png'
 
 # Appearance settings
-theme = 'auto'
-colorPalette = 'default'
+theme = 'light'
+colorPalette = 'eink'
 hideHeader = false
+
+# Footer
+showFooter = true
+footerContent = "© Ernesto Matos | Powered by [Hugo](https://gohugo.io/) and [tomfran/typo](https://github.com/tomfran/typo/)"
 
 # Intro on main page, content is markdown
 homeIntroContent = """
