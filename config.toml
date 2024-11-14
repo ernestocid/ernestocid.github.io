@@ -69,10 +69,6 @@ url = "/reading/"
 name = "projects"
 url = "/projects/"
 
-[[params.menu]]
-name = "now"
-url = "/now/"
-
 [markup]
 [markup.highlight]
 style = 'algol'
