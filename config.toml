@@ -41,6 +41,10 @@ url = "https://www.linkedin.com/in/ernestocid/"
 name = "github"
 url = "https://github.com/ernestocid"
 
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@ernestocid"
+
 # Breadcrumbs
 breadcrumbs = true
 
