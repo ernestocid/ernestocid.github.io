@@ -1,10 +1,10 @@
 +++
-title = "About"
+title = "About me"
 menu = "main"
 toc = false
 +++
 
-I got my first computer in 1996 when i was nine years old. it was an intel pentium iii with 128mb
+i got my first computer in 1996 when i was nine years old. it was an intel pentium iii with 128mb
 of ram and fewer megabytes of storage than today's free google drive plan. it had a cool
 turbo button, though :-).
 
