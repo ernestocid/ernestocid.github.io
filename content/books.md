@@ -1,5 +1,5 @@
 +++
-title = "Reading"
+title = "Books"
 menu = "main"
 toc = false
 +++
@@ -21,6 +21,8 @@ Here is a list of books that I've read and that I usually recommend to people:
 - [Debugging Teams: Better Productivity Through Collaboration](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058/ref=sr_1_1?keywords=debugging+teams&qid=1636828945&sr=8-1) by Brian W. Fitzpatrick and Ben Collins-Sussman.
 
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/ref=sr_1_1?keywords=radical+candor&qid=1636829152&s=books&sr=1-1) by Kim Scott.
+
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://a.co/d/33wzoJ1) by Camille Fournier
 
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/ref=sr_1_1?crid=3K3DM8LIR0GUZ&dchild=1&keywords=managing+humans&qid=1590437218&sprefix=Managing+Huma%2Caps%2C288&sr=8-1) by Michael Lopp.
 

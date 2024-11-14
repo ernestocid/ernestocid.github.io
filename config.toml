@@ -62,8 +62,8 @@ name = "publications"
 url = "/publications/"
 
 [[params.menu]]
-name = "reading"
-url = "/reading/"
+name = "books"
+url = "/books/"
 
 [[params.menu]]
 name = "projects"
