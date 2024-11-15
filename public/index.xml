@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hi, I&#39;m Ernesto</title>
+    <title>Home on Hello, I&#39;m Ernesto</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Hi, I&#39;m Ernesto</description>
+    <description>Recent content in Home on Hello, I&#39;m Ernesto</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2023 17:31:02 -0300</lastBuildDate>
@@ -31,10 +31,10 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;Bellow you will find some of the projects I created.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;BETA: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation,&#xA;to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional&#xA;statements, to create unit tests for an operation. You can read more about BETA on&#xA;my Ph.D &lt;a href=&#34;http://ernestocid.com/files/thesis.pdf&#34;&gt;thesis&lt;/a&gt;, in some of the papers &lt;a href=&#34;http://localhost:1313/publications/&#34; title=&#34;Publications&#34;&gt;here&lt;/a&gt;&#xA;and in the tool&amp;rsquo;s &lt;a href=&#34;http://www.beta-tool.info/&#34;&gt;website&lt;/a&gt;. You can find the tool&amp;rsquo;s code &lt;a href=&#34;https://github.com/ernestocid/beta1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/code/</guid>
+      <description>&lt;p&gt;Bellow you will find some of the projects I created.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;BETA&lt;/strong&gt;: stands for B basEd Testing Approach. It is a tool-supported approach, based on the B-Method formal notation,&#xA;to generate test cases. It uses restrictions described on a B model, such as invariants, preconditions and conditional&#xA;statements, to create unit tests for an operation. You can read more about BETA on&#xA;my Ph.D &lt;a href=&#34;http://ernestocid.com/files/thesis.pdf&#34;&gt;thesis&lt;/a&gt;, in some of the papers &lt;a href=&#34;http://localhost:1313/publications/&#34; title=&#34;Publications&#34;&gt;here&lt;/a&gt;&#xA;and in the tool&amp;rsquo;s &lt;a href=&#34;http://www.beta-tool.info/&#34;&gt;website&lt;/a&gt;. You can find the tool&amp;rsquo;s code &lt;a href=&#34;https://github.com/ernestocid/beta1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications and Presentations</title>

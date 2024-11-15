@@ -1,6 +1,6 @@
 baseURL = "https://ernestocid.github.io/"
 languageCode = 'en-us'
-title = "Hi, I'm Ernesto"
+title = "Hello, I'm Ernesto"
 theme = "typo"
 
 [taxonomies]
@@ -74,8 +74,8 @@ name = "books"
 url = "/books/"
 
 [[params.menu]]
-name = "projects"
-url = "/projects/"
+name = "code"
+url = "/code/"
 
 [markup]
 [markup.highlight]
