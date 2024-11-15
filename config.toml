@@ -1,6 +1,6 @@
 baseURL = "https://ernestocid.github.io/"
 languageCode = 'en-us'
-title = "Hello, I'm Ernesto"
+title = "Ernesto Matos"
 theme = "typo"
 
 [taxonomies]
@@ -21,7 +21,7 @@ footerContent = "© Ernesto Matos | Powered by [Hugo](https://gohugo.io/) and [t
 
 # Intro on main page, content is markdown
 homeIntroContent = """
-My name is Ernesto Matos. I'm a Computer Scientist/Software Engineer living in
+Hello! My name is Ernesto Matos. I'm a Computer Scientist/Software Engineer living in
 São Paulo, Brazil. I got a MSc and a Ph.D in computer science during
 my time at [DIMAp/UFRN](http://www.dimap.ufrn.br/) (and [HHU](https://www.uni-duesseldorf.de/home/en/home.html)
 in Düsseldorf for a year). During my time in
