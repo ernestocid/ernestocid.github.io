@@ -60,8 +60,11 @@ continental size. To solve this challenge there is a lot of technology involved.
 the company when it had less than a thousand employees and when it had just got its unicorn title.
 So far I saw it grow to four thousand employees and be valued at 2 billion dollars.
 
-Today I work as an Engineering Manager in the platform team, a team that I had the opportunity to
-create and see grow. We work on tools that increase engineering productivity, reliability of
-our platform, among other things.
+I spent almost six years at Loggi. I started there as a Senior Software Engineer in the Data platform
+team and then I had the opportunity to become an Engineering Manager in the Developer Platform team, a
+team that I had the pleasure to create and see grow.
+
+Today I'm working as an Engineering Leader at Axonius. That is a fairly recent change in my career
+so I don't have much to talk about. I'll bring updates soon :-)
 
 That is all for now. Hopefully, I'll keep this page updated as new things happen in my life :-)
