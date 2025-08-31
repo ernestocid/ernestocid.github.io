@@ -1,5 +1,6 @@
 ---
 title: "Places to eat in São Paulo"
+date: 2025-08-31T17:31:02-03:00
 draft: false
 summary: A list of my favorite places to eat in São Paulo.
 ---
@@ -13,3 +14,9 @@ summary: A list of my favorite places to eat in São Paulo.
 ## Italian
 
 - [MoMa (Modern Mamma Osteria)](https://www.instagram.com/modernmammaosteria/): my favorite Italian restaurant in São Paulo, hands down. The Lasanheta de Vitelo is my go-to every single time.
+
+## Bakeries
+
+- [Jules L'art du Pain](https://www.instagram.com/padariajules/): french bakery. Sometimes I'll hear people speaking french in the line so it must be the real deal. They have my favorite chocolate croissant.
+
+- [Feito à Mão](https://www.instagram.com/feitoamao.sp/): their mortadela french toast is amazing.
