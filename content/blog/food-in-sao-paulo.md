@@ -20,3 +20,9 @@ summary: A list of my favorite places to eat in São Paulo.
 - [Jules L'art du Pain](https://www.instagram.com/padariajules/): french bakery. Sometimes I'll hear people speaking french in the line so it must be the real deal. They have my favorite chocolate croissant.
 
 - [Feito à Mão](https://www.instagram.com/feitoamao.sp/): their mortadela french toast is amazing.
+
+## Churrascarias/Steak Houses
+
+- [Fuego Celeste](https://www.instagram.com/fuegocelesteoficial/): amazing quality and a good value for your money.
+
+- [Santa Fé](https://www.instagram.com/santafeocupim/): you have to try the Cupim Casqueirado.
