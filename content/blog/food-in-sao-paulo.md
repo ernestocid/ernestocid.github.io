@@ -11,9 +11,15 @@ summary: A list of my favorite places to eat in São Paulo.
 
 - [Big Kahuna Burger](https://www.instagram.com/bigkahunaburgerr/): they call themselves “The Temple of Bacon” and honestly, anything with bacon there is worth trying. They even serve bacon milkshakes.
 
+- [Bullguer](https://www.instagram.com/bullguer/): its a burguer chain with many units in São Paulo. Very good value for money. I really like their fries and mayo.
+
 ## Italian
 
 - [MoMa (Modern Mamma Osteria)](https://www.instagram.com/modernmammaosteria/): my favorite Italian restaurant in São Paulo, hands down. The Lasanheta de Vitelo is my go-to every single time.
+
+## Pizzas
+
+- [Veridiana](https://www.instagram.com/veridianapizzaria/): too many good options. If you want to try something different, there is a Lindt white chocolate pizza that I recommend your order for dessert.
 
 ## Bakeries
 
